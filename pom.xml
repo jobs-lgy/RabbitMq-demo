@@ -16,6 +16,7 @@
 		<module>myrabbitA</module>
 		<module>myrabbitB</module>
 		<module>myrabbitC</module>
+		<module>boot-rabbitmq</module>
 	</modules>
 
 
