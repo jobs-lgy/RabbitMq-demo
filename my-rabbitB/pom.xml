@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zpc</groupId>
-    <artifactId>myrabbitB</artifactId>
+    <artifactId>my-rabbitB</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>myrabbitB</name>
+    <name>my-rabbitB</name>
     <properties>
         <spring.version>4.1.3.RELEASE</spring.version>
         <fastjson.version>1.2.46</fastjson.version>
